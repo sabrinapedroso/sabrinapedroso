@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @sabrinapedroso
 - 👀 I’m interested in frontend development
 - 🌱 I’m currently learning HTML, CSS and JavaScript basics
-- 📚 I study at IFPR - Campus Irati
+- 🎓 Gratuated in informatics
+- 📚 Psychology major
 - 📫 You can reach me at: sabrina.apedroso1@gmail.com
